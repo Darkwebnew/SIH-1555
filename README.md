@@ -2,7 +2,7 @@
 
 ## 📅 Smart India Hackathon Workshop  
 **Date:** 20.05.2025  
-**Register Number:** 212222103002
+**Register Number:** 212222103002  
 **Name:** Sriram V  
 
 ---
@@ -74,20 +74,7 @@ Develop an engaging, informative, and user-friendly virtual herbal garden featur
 
 ## 🏗️ Architecture Diagram
 
-🧑‍💻 User Interface (React.js / Unity WebGL)
-
-              ↓
-
-🔗 REST APIs (Flask / Node.js)
-
-              ↓
-              
-🗄️ Database (PostgreSQL / MongoDB)
-              
-              ↓
-              
-📦 3D Models + Media Storage (AWS S3 / Cloud)
-
+![image](https://github.com/user-attachments/assets/2897ef99-b1e1-4c33-8d47-46fc362535af)
 
 ---
 
@@ -144,7 +131,8 @@ Develop an engaging, informative, and user-friendly virtual herbal garden featur
 ---
 
 ## 📸 Screenshots & UI Mockups  
-(Add screenshots after implementation: `/screenshots/` folder)
+
+![image](https://github.com/user-attachments/assets/83b4ef66-e7b4-4628-a942-9ebe6e33212a)
 
 ---
 
