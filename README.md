@@ -1,6 +1,4 @@
-# 🌿 Smart India Hackathon 2024 Submission
-
-## 📅 Smart India Hackathon Workshop  
+# 📅 Smart India Hackathon Workshop  
 **Date:** 20.05.2025  
 **Register Number:** 212222103002  
 **Name:** Sriram V  
