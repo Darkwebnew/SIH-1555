@@ -75,11 +75,17 @@ Develop an engaging, informative, and user-friendly virtual herbal garden featur
 ## 🏗️ Architecture Diagram
 
 🧑‍💻 User Interface (React.js / Unity WebGL)
+
               ↓
+
 🔗 REST APIs (Flask / Node.js)
+
               ↓
+              
 🗄️ Database (PostgreSQL / MongoDB)
+              
               ↓
+              
 📦 3D Models + Media Storage (AWS S3 / Cloud)
 
 
@@ -127,7 +133,7 @@ Develop an engaging, informative, and user-friendly virtual herbal garden featur
 ---
 
 ## 🔗 GitHub Repository  
-[👉 Click here to view the GitHub Repository](https://github.com/YourUsername/Virtual-Herbal-Garden)
+[👉 Click here to view the GitHub Repository](https://github.com/Darkwebnew/Virtual-Herbal-Garden)
 
 ---
 
